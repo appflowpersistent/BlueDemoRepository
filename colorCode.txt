@@ -1,1 +1,2 @@
 Color code of blue in HEX: #00f
+Color code of red in HEX:  #FF0000
